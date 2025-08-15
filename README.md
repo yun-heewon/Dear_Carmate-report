@@ -128,7 +128,7 @@
 ### 차량별 모델 조회
 <img width="1193" height="774" alt="차량별 모델 조회" src="https://github.com/user-attachments/assets/fe3387f7-21aa-4fec-a334-50cd0d946d7c" />
 
-### csc 대용량 업로드 
+### csv 대용량 업로드 
 <img width="1486" height="467" alt="csv 업로드 테스트" src="https://github.com/user-attachments/assets/2675187d-133d-4b59-a4be-7a6914a794c6" />
 
 ### authorizeAdmin 코드 추가 
